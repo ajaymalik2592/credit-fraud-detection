@@ -1,4 +1,3 @@
 # credit-fraud-detection
-
-below the link of data-set is given 
+ data-set
 https://www.kaggle.com/mlg-ulb/creditcardfraud
